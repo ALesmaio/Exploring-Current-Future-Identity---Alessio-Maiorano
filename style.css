@@ -1,0 +1,110 @@
+
+.bgimage {
+    height:100vh;
+    background: url('images/EIF.png');
+    background-size:cover;
+    position:relative;
+}
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.card:hover .servicesIcon {
+    color: red;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+}
+.umpy{
+    position: relative;
+    left: 224%;
+    top: 50%;
+}
+.heccy {
+    position: relative;
+    left: 210%;
+    bottom: 18%;
+}
+.food {
+    position: relative;
+    bottom: 22%;
+    left: 105%;
+}
+.me {
+    position: relative;
+    left: 3%;
+    bottom: 20%;
+}
+.award {
+    position: relative;
+    left: 105%;
+    bottom: 27%;
+}
+.haward {
+    position: relative;
+    left: 10%;
+    top: 0%;
+}
+.crom {
+    position: relative;
+    left: 220%;
+    bottom: 43%
+}
+.rossi {
+    position: relative;
+    bottom: 41%;
+}
+.touch {
+    position: relative;
+    bottom: 40%;
+}
+.touchf {
+    position: relative;
+    bottom: 50%;
+    left: 200%;
+    bottom: 53%;
+}
+.kindy {
+    position: relative;
+    left: 220%;
+    top: -64%;
+}
+
+.cube {
+    position: relative;
+    right: -180%;
+    top: -4%;
+}
+
+.unti {
+    position: relative;
+}
+.gif {
+    position: relative;
+    top: -2%;
+    left: 80%;
+}
+.game {
+    position: relative;
+}
+.ps {
+    position: relative;
+    left: 190%;
+    bottom: 5%;
+}
+.navbar-brand {
+    color: rgb(0, 0, 0);
+}
+.nav-link {
+    color: rgb(0, 0, 0);
+}
